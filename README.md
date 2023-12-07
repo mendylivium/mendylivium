@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Rommel Aquino Mendiola
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about MERN Stack
 - 📫 How to reach me visit my [Portfolio](https://rmendiola.vercel.app)
 
 <!---
