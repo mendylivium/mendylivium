@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Rommel Aquino Mendiola
-- 👀 I’m interested in Web Development
 - 📫 How to reach me visit my [Portfolio](https://mendiola.pages.dev)
 
 <!---
